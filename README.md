@@ -1,27 +1,34 @@
-# Portfolio
+# Meu Portfólio Pessoal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+Bem-vindo ao meu site pessoal e portfólio, construído com Angular e estilizado com Bootstrap. Esta aplicação é uma Single Page Application (SPA) que apresenta meu trabalho, projetos e informações pessoais.
 
-## Development server
+## Características
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **SPA Angular:** Este site é uma Single Page Application (SPA) construída com o Angular, proporcionando uma experiência de navegação suave e responsiva.
 
-## Code scaffolding
+- **Design Responsivo:** Utilizamos o Bootstrap para garantir que o site seja otimizado para dispositivos móveis, tablets e desktops.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Portfólio:** Apresento meus projetos, experiência e habilidades em uma seção de portfólio bem organizada.
 
-## Build
+- **Informações Pessoais:** Forneço informações sobre mim, minha educação, experiência profissional e maneiras de entrar em contato comigo.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como Usar
 
-## Running unit tests
+Para executar este projeto localmente, siga as instruções de instalação e execução. Certifique-se de ter o ambiente Angular configurado corretamente.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tecnologias Utilizadas
 
-## Running end-to-end tests
+- Angular
+- Bootstrap
+- HTML5
+- CSS3
+- TypeScript
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contato
 
-## Further help
+- Email: meuemail@email.com
+- LinkedIn: [linkedin.com/meu-nome](https://www.linkedin.com/in/meu-nome)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+Agradeço por visitar meu site pessoal e conferir meu portfólio! Espero que você goste do que viu e que possamos entrar em contato em breve.
