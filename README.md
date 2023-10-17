@@ -26,8 +26,8 @@ Para executar este projeto localmente, siga as instruções de instalação e ex
 
 ## Contato
 
-- Email: meuemail@email.com
-- LinkedIn: [linkedin.com/meu-nome](https://www.linkedin.com/in/meu-nome)
+- Email: hugovic.it@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hugovic-it/
 
 ---
 
