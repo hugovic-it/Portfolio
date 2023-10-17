@@ -1,6 +1,6 @@
-# Meu Portfólio Pessoal
+# Meu Site Pessoal
 
-Bem-vindo ao meu site pessoal e portfólio, construído com Angular e estilizado com Bootstrap. Esta aplicação é uma Single Page Application (SPA) que apresenta meu trabalho, projetos e informações pessoais.
+Bem-vindo ao meu site pessoal, construído com Angular e estilizado com Bootstrap. Esta aplicação é uma Single Page Application (SPA) que apresenta meu trabalho, projetos e informações pessoais.
 
 ## Características
 
